@@ -15,4 +15,30 @@
         <item>David Koch</item>
         <item>Larry Ellison</item>
     </string-array>
+
+    <string-array name="founder">
+        <item>CEO Amazon</item>
+        <item>Pendiri Microsoft</item>
+        <item>Pemilik Saham Berkshire Hathaway</item>
+        <item>Pemilik Brand Louis Vuitton</item>
+        <item>Pendiri Facebook</item>
+        <item>Pendiri Zara</item>
+        <item>Raja Telekomunikasi Meksiko</item>
+        <item>CEO Koch Industries</item>
+        <item>Executive Vice President Koch Industries</item>
+        <item>Pendiri Database Oracle</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Pendiri Amazon ini Memiliki Total Kekayaan 112 Miliar Dollar AS</item>
+        <item>Pendiri Microsoft ini Memiliki Total Kekayaan 90 Miliar Dollar AS</item>
+        <item>Pemilik Saham Berkshire Hathaway ini Memiliki Total Kekayaan 84 Miliar Dollar AS</item>
+        <item>Pemilik Brand Louis Vuitton ini Memiliki Total Kekayaan 72,2 Miliar Dollar AS</item>
+        <item>Pendiri Facebook ini Memiliki Total Kekayaan 71 Miliar Dollar AS</item>
+        <item>Pendiri Zara ini Memiliki Total Kekayaan 70 Miliar Dollar AS</item>
+        <item>Raja Telekomunikasi Asal Meksiko Memiliki Total Kekayaan 67,1 Miliar Dollar AS</item>
+        <item>Pengusaha dan CEO Koch Industries ini Memiliki Total Kekayaan 60 Miliar Dollar AS</item>
+        <item>Executive Vice President Koch Industries ini Memiliki Total Kekayaan 60 Miliar Dollar AS</item>
+        <item>Pendiri Database Oracle ini Memiliki Total Kekayaan 58,5 Miliar Dollar AS</item>
+    </string-array>
 </resources>
