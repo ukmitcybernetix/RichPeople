@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DaftarOrangKaya</string>
+    <string name="text_description_mark">People Description</string>
+    <string name="image_description_mark">Image Description</string>
 </resources>
