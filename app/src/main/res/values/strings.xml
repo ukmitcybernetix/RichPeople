@@ -41,4 +41,17 @@
         <item>Executive Vice President Koch Industries ini Memiliki Total Kekayaan 60 Miliar Dollar AS</item>
         <item>Pendiri Database Oracle ini Memiliki Total Kekayaan 58,5 Miliar Dollar AS</item>
     </string-array>
+
+    <string-array name="photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/6b/Jeff_Bezos%27_iconic_laugh.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/83/Billgates.jpg</item>
+        <item>https://media.gettyimages.com/photos/warren-buffett-speaks-onstage-at-the-fortune-most-powerful-women-on-picture-id184769358</item>
+        <item>https://media.gettyimages.com/photos/of-lvmh-bernard-arnault-is-photographed-for-le-figaro-on-april-25-in-picture-id674455408</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/ef/MarkZuckerberg.jpg</item>
+        <item>https://media.gettyimages.com/photos/portrait-of-amancio-ortega-inditex-group-president-picture-id89417114</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/df/Carlos_Slim_Hel%C3%BA.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/20/Charles_Koch_portrait_%28cropped%29.jpg</item>
+        <item>https://media.gettyimages.com/photos/david-h-koch-attends-the-lincoln-center-spring-gala-at-alice-tully-picture-id676778984</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d9/Larry_Ellison_on_stage.jpg</item>
+    </string-array>
 </resources>
