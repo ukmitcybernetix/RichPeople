@@ -2,4 +2,17 @@
     <string name="app_name">DaftarOrangKaya</string>
     <string name="text_description_mark">People Description</string>
     <string name="image_description_mark">Image Description</string>
+
+    <string-array name="name">
+        <item>Jeff Bezos</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffet</item>
+        <item>Bernard Arnault</item>
+        <item>Mark Zuckerberg</item>
+        <item>Amancio Ortega</item>
+        <item>Carlos Slim Helu</item>
+        <item>Charles Koch</item>
+        <item>David Koch</item>
+        <item>Larry Ellison</item>
+    </string-array>
 </resources>
