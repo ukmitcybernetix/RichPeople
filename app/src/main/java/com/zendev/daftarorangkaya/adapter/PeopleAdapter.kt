@@ -13,7 +13,7 @@ import com.zendev.daftarorangkaya.model.People
 class PeopleAdapter(private val data: List<People>, private val listener: (People) -> Unit) :
     RecyclerView.Adapter<PeopleAdapter.PeopleViewHolder>() {
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PeopleAdapter.PeopleViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PeopleViewHolder {
         val view: View = LayoutInflater.from(parent.context).inflate(R.layout.item_row, parent, false)
         return PeopleViewHolder(view)
     }
